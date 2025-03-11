@@ -1,12 +1,25 @@
-# React + Vite
+# 🚀 Sigorta Acentesi Web Uygulaması
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, **React.js** kullanılarak geliştirilmiş, **sigorta acentesi web uygulamasıdır**. Kullanıcı dostu arayüzü, performans optimizasyonları ve SEO uyumlu yapısıyla dikkat çeker.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Proje Özellikleri
 
-## Expanding the ESLint configuration
+✅ **React.js & React Router** ile çok sayfalı yapı  
+✅ **Performans Optimizasyonu** (Lazy Loading, Memoization)  
+✅ **Mobil Uyumlu & Responsive Tasarım**  
+✅ **Sigorta Teklif Formu** (Validasyonlu)  
+✅ **Dinamik Ürün ve Anlaşmalı Kurumlar Listesi**  
+✅ **Hızlı Sayfa Yükleme & SEO Uyumu**  
+✅ **Gelişmiş Navbar & Footer Yapısı**  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Proje Ekran Görüntüleri
+
+**Ana Sayfa:**
+![Ana Sayfa](assets/images/homepage.png)
+
+**Ürünler Sayfası:**
+![Ürünler](assets/images/products.png)
