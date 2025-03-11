@@ -19,6 +19,7 @@ Sigorta Acentesi Web Uygulaması, kullanıcıların sigorta teklifleri almasın�
 ![Ana Sayfa](src/assets/images/homepage.png)
 
 ### 🏥 **Anlaşmalı Kurumlar**
-![Anlaşmalı Kurumlar] (src/assets/images/institutions.png)
+(src/assets/images/institutions.png)
+
 
 
