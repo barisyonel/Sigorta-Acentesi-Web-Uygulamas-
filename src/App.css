@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.content {
+  min-height: calc(100vh - 100px); /* Sayfanın minimum yüksekliği */
+  padding-top: 80px; /* Navbar ile içerik arasındaki boşluk */
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #f5f5f5;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: #013e7a;
+  color: white;
+}
+.hero {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.hero-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.cta-button {
+  background: #ffd700;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}

@@ -1,0 +1,89 @@
+/* Navbar Genel Stili */
+.navbar {
+	width: 100%;
+	border-bottom: 1px solid #ddd;
+	background: white;
+  }
+  
+  /* Üst Navbar */
+  .navbar-top {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 15px 20px;
+	max-width: 1200px;
+	margin: auto;
+  }
+  
+  /* Logo */
+  .logo img {
+	height: 30px;
+	padding-left: 50px;
+  }
+  
+  /* Sağ Üst Butonlar */
+  .navbar-actions {
+	display: flex;
+	align-items: center;
+	gap: 15px;
+  }
+  
+  .teklif-al {
+	font-weight: bold;
+	text-decoration: none;
+  }
+  
+  .online-islemler {
+	background: white;
+	border: 2px solid #003366;
+	padding: 8px 16px;
+	border-radius: 5px;
+	font-weight: bold;
+	cursor: pointer;
+	transition: 0.3s;
+  }
+  
+  .online-islemler:hover {
+	background: #003366;
+	color: white;
+  }
+  
+  /* Alt Menü */
+  .navbar-menu {
+	display: flex;
+	justify-content: center; /* Menü başlıklarını ortalar */
+	align-items: center;
+	width: 100%;
+  }
+  
+  .navbar-menu {
+	display: flex;
+	justify-content: center; /* Menü başlıklarını ortalar */
+	align-items: center;
+	width: 100%;
+  }
+  
+  .nav-links {
+	list-style: none;
+	display: flex;
+	gap: 20px; /* Linkler arası boşluk */
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+  }
+  
+  .nav-links li {
+	display: inline-block;
+  }
+  
+  .nav-links a {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	transition: color 0.3s ease;
+  }
+  
+  .nav-links a:hover {
+	color: yellow;
+  }
+  
