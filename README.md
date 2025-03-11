@@ -18,10 +18,7 @@ Sigorta Acentesi Web Uygulaması, kullanıcıların sigorta teklifleri almasın�
 ### 🎯 **Ana Sayfa**
 ![Ana Sayfa](src/assets/images/homepage.png)
 
-### 📌 **Ürünler Sayfası**
-![Ürünler](https://raw.githubusercontent.com/barisyonel/Sigorta-Acentesi-Web-Uygulamas-//assets/images/products.png)
-
 ### 🏥 **Anlaşmalı Kurumlar**
-![Anlaşmalı Kurumlar](https://raw.githubusercontent.com/barisyonel/Sigorta-Acentesi-Web-Uygulamas-/main/assets/images/institutions.png)
+![Anlaşmalı Kurumlar] (src/assets/images/institutions.png)
 
 
