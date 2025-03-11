@@ -1,11 +1,8 @@
 # 🚀 Sigorta Acentesi Web Uygulaması
 
-Bu proje, **React.js** kullanılarak geliştirilmiş, **sigorta acentesi web uygulamasıdır**. Kullanıcı dostu arayüzü, performans optimizasyonları ve SEO uyumlu yapısıyla dikkat çeker.
+Sigorta Acentesi Web Uygulaması, kullanıcıların sigorta teklifleri almasını, ürünleri incelemesini ve anlaşmalı kurumlar hakkında bilgi edinmesini sağlayan modern bir **React.js** uygulamasıdır. **Performans optimizasyonu, mobil uyumluluk ve SEO uyumluluğu** sağlanmıştır.
 
----
-
-## 📌 Proje Özellikleri
-
+## 🔥 Proje Özellikleri
 ✅ **React.js & React Router** ile çok sayfalı yapı  
 ✅ **Performans Optimizasyonu** (Lazy Loading, Memoization)  
 ✅ **Mobil Uyumlu & Responsive Tasarım**  
@@ -16,10 +13,15 @@ Bu proje, **React.js** kullanılarak geliştirilmiş, **sigorta acentesi web uyg
 
 ---
 
-## 📸 Proje Ekran Görüntüleri
+## 📸 **Proje Ekran Görüntüleri**
 
-**Ana Sayfa:**
-![Ana Sayfa](assets/images/homepage.png)
+### 🎯 **Ana Sayfa**
+![Ana Sayfa](https://raw.githubusercontent.com/barisyonel/Sigorta-Acentesi-Web-Uygulamas-/main/assets/images/homepage.png)
 
-**Ürünler Sayfası:**
-![Ürünler](assets/images/products.png)
+### 📌 **Ürünler Sayfası**
+![Ürünler](https://raw.githubusercontent.com/barisyonel/Sigorta-Acentesi-Web-Uygulamas-/main/assets/images/products.png)
+
+### 🏥 **Anlaşmalı Kurumlar**
+![Anlaşmalı Kurumlar](https://raw.githubusercontent.com/barisyonel/Sigorta-Acentesi-Web-Uygulamas-/main/assets/images/institutions.png)
+
+
